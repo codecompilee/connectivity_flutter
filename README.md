@@ -1,16 +1,7 @@
-# flutter_widgets
+# Flutter Coneectivity Example
 
-A new Flutter project.
+![Screenshot_1679816614](https://user-images.githubusercontent.com/119125942/227762260-7ee0857a-5b45-492f-a4d0-13e7e3fb0602.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_1679816626](https://user-images.githubusercontent.com/119125942/227762271-33623727-ece6-4a11-b416-2f8f797370c0.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
